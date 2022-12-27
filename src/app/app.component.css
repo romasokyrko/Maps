@@ -1,0 +1,17 @@
+agm-map{
+    height: 400px;
+}
+
+  .container {   
+    color: #405065;
+  }
+  
+  .search-company {
+    max-width: 500px;
+    padding-bottom: 20px;
+    
+  }
+  
+  .form-control::placeholder  {
+    font-family: FontAwesome;
+  }
